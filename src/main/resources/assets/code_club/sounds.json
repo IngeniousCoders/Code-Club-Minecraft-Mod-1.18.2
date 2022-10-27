@@ -1,0 +1,10 @@
+{
+  "surprise_disc": {
+    "sounds": [
+      {
+        "name": "code_club:surprise_disc",
+        "stream": true
+      }
+    ]
+  }
+}
