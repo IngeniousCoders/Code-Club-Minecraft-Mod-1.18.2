@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "up": "code_club:block/time_wood_top",
+    "down": "code_club:block/time_wood_bottom",
+    "side": "code_club:block/time_wood"
+  }
+}
